@@ -1,2 +1,4 @@
-# CS1331
-Fall 2023
+
+CS 1331 - Intro to Object-Oriented Programming @ Georgia Tech
+
+Siwoo Park
